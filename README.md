@@ -14,18 +14,21 @@ React is a JavaScript library for building user interfaces and it is just 'V' pa
 
 ## To start with
 
-- React Advantages
+- <a href="http://ddi-dev.com/blog/programming/pros-and-cons-reactjs-web-app-development/" target="_blank">React Advantages</a>
 - React DOM (Virtual DOM)
-- How Virtual DOM Works ?
-- React Component Types
-  - function components
-  - class components
+- <a href="https://www.youtube.com/watch?v=RquK3TImY9U" target="_blank">How Virtual DOM Works ?</a>
+- <a href="https://reactjs.org/docs/components-and-props.html" target="_blank">React Component Types</a>
+  - Function components
+  - Class components
+- <a href="https://reactjs.org/docs/components-and-props.html" target="_blank">props</a>
 - Components as seperate modules
 - Events
 - Refs
 - React state
 - React Lifecycle methods
 
+## Practice as much you can
+Try to make hands on each topic you learn, I personally belive code-wise implementation makes your concepts more clear.
+I suggest you to start with small project and try to implement each concept you learnt, for sake of database side try to integrate firebase in your project, <a href="https://www.codementor.io/yurio/all-you-need-is-react-firebase-4v7g9p4kf" target="_blank">this is simple guide to connect with firebase</a>
 
-Try to hands on each topic you learn, I personally belive code-wise implementation makes your concepts more clear.
-if you feel you are done enough with above topics go ahead with <a href="https://www.youtube.com/watch?v=Ke90Tje7VS0" target="_blank">crash course by Mosh</a> 
+if you think you are done enough with above topics you can go ahead with <a href="https://www.youtube.com/watch?v=Ke90Tje7VS0" target="_blank">crash course by Mosh</a> 
