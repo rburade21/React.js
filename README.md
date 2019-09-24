@@ -20,12 +20,12 @@ React is a JavaScript library for building user interfaces and it is just 'V' pa
 - <a href="https://reactjs.org/docs/components-and-props.html" target="_blank">React Component Types</a>
   - Function components
   - Class components
-- <a href="https://reactjs.org/docs/components-and-props.html" target="_blank">props</a>
-- Components as seperate modules
-- Events
-- Refs
-- React state
-- React Lifecycle methods
+- <a href="https://reactjs.org/docs/components-and-props.html" target="_blank">Props</a>
+- <a href="https://www.youtube.com/watch?v=gLyi_lx0oCU" target="_blank">Components as seperate modules</a>
+- <a href="https://reactjs.org/docs/handling-events.html" target="_blank">Events</a>
+- <a href="https://reactjs.org/docs/refs-and-the-dom.html" target="_blank">Refs</a>
+- <a href="https://reactjs.org/docs/state-and-lifecycle.html" target="_blank">React state</a>
+- <a href="https://reactjs.org/docs/state-and-lifecycle.html" target="_blank">React Lifecycle methods</a>
 
 ## Practice as much you can
 Try to make hands on each topic you learn, I personally belive code-wise implementation makes your concepts more clear.
